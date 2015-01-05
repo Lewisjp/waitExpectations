@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  User_id: 1
+  Event_id: 1
+  hour: 1
+  minute: 1
+  am: false
+  date: MyString
+  day: MyString
+  is_deleted: false
+
+two:
+  User_id: 1
+  Event_id: 1
+  hour: 1
+  minute: 1
+  am: false
+  date: MyString
+  day: MyString
+  is_deleted: false
